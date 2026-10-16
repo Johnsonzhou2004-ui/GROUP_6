@@ -1,0 +1,4 @@
+save_rate,contacted,expected_churners,expected_saves,revenue_saved,cost,net_benefit,roi_pct
+0.1,537,335.0,33.5,32840.0,7580.0,25260.0,333.0
+0.2,537,335.0,67.0,65680.0,10864.0,54816.0,505.0
+0.3,537,335.0,100.5,98520.0,14148.0,84372.0,596.0

@@ -1,0 +1,10 @@
+contract,internet_service,customers,churn_rate_pct,pts_vs_average,risk_rank
+Month-to-month,Fiber optic,2128,54.6,28.1,1
+Month-to-month,DSL,1223,32.2,5.7,2
+One year,Fiber optic,539,19.3,-7.2,3
+Month-to-month,No,524,18.9,-7.6,4
+One year,DSL,570,9.3,-17.2,5
+Two year,Fiber optic,429,7.2,-19.3,6
+One year,No,364,2.5,-24.1,7
+Two year,DSL,628,1.9,-24.6,8
+Two year,No,638,0.8,-25.8,9

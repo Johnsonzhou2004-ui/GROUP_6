@@ -1,0 +1,26 @@
+customer_id,contract,internet_service,tenure_months,monthly_charges,churn_prob,risk_tier,expected_monthly_loss,top_drivers
+3292-PBZEJ,Month-to-month,Fiber optic,11,111.4,0.762,Critical,84.86,Short tenure (new customer)|High monthly bill|Month-to-month contract
+5956-YHHRX,Month-to-month,Fiber optic,21,104.35,0.774,Critical,80.77,High monthly bill|Short tenure (new customer)|Month-to-month contract
+5150-ITWWB,Month-to-month,Fiber optic,3,94.85,0.849,Critical,80.57,Short tenure (new customer)|High monthly bill|Month-to-month contract
+6734-GMPVK,Month-to-month,Fiber optic,5,105.3,0.741,High,78.01,Short tenure (new customer)|High monthly bill|Month-to-month contract
+7145-FEJWU,Month-to-month,Fiber optic,12,105.3,0.737,High,77.61,Short tenure (new customer)|High monthly bill|Month-to-month contract
+3320-VEOYC,Month-to-month,Fiber optic,14,95.6,0.811,Critical,77.57,Short tenure (new customer)|High monthly bill|Month-to-month contract
+6350-XFYGW,Month-to-month,Fiber optic,4,94.75,0.818,Critical,77.49,Short tenure (new customer)|High monthly bill|Month-to-month contract
+5995-SNNEW,Month-to-month,Fiber optic,23,104.45,0.741,High,77.39,High monthly bill|Short tenure (new customer)|Month-to-month contract
+2081-VEYEH,Month-to-month,Fiber optic,3,107.95,0.71,High,76.62,Short tenure (new customer)|High monthly bill|Month-to-month contract
+8161-QYMTT,Month-to-month,Fiber optic,7,94.1,0.813,Critical,76.47,Short tenure (new customer)|High monthly bill|Month-to-month contract
+0916-QOFDP,Month-to-month,Fiber optic,14,95.8,0.789,Critical,75.62,Short tenure (new customer)|High monthly bill|Month-to-month contract
+9094-AZPHK,Month-to-month,Fiber optic,15,100.15,0.753,Critical,75.44,Short tenure (new customer)|High monthly bill|Month-to-month contract
+5935-FCCNB,Month-to-month,Fiber optic,17,94.2,0.8,Critical,75.4,Short tenure (new customer)|High monthly bill|Month-to-month contract
+3452-GWUIN,Month-to-month,Fiber optic,19,94.95,0.793,Critical,75.32,Short tenure (new customer)|High monthly bill|Month-to-month contract
+7225-CBZPL,Month-to-month,Fiber optic,17,94.8,0.793,Critical,75.19,Short tenure (new customer)|High monthly bill|Month-to-month contract
+9290-SHCMB,Month-to-month,Fiber optic,13,96.85,0.771,Critical,74.64,Short tenure (new customer)|High monthly bill|Month-to-month contract
+4298-OYIFC,Month-to-month,Fiber optic,15,103.45,0.719,High,74.35,Short tenure (new customer)|High monthly bill|Month-to-month contract
+0365-BZUWY,Month-to-month,Fiber optic,17,102.55,0.72,High,73.79,Short tenure (new customer)|High monthly bill|Month-to-month contract
+5760-IFJOZ,Month-to-month,Fiber optic,3,107.95,0.683,High,73.7,Short tenure (new customer)|High monthly bill|Month-to-month contract
+7398-SKNQZ,Month-to-month,Fiber optic,3,94.9,0.776,Critical,73.68,Short tenure (new customer)|High monthly bill|Month-to-month contract
+7668-XCFYV,Month-to-month,Fiber optic,17,92.55,0.789,Critical,73.06,Short tenure (new customer)|High monthly bill|Month-to-month contract
+3629-ZNKXA,Month-to-month,Fiber optic,17,101.8,0.714,High,72.71,Short tenure (new customer)|High monthly bill|Month-to-month contract
+4927-WWOOZ,Month-to-month,Fiber optic,2,91.45,0.791,Critical,72.37,Short tenure (new customer)|High monthly bill|Month-to-month contract
+6969-MVBAI,Month-to-month,Fiber optic,9,90.1,0.803,Critical,72.37,Short tenure (new customer)|High monthly bill|Month-to-month contract
+7577-SWIFR,Month-to-month,Fiber optic,1,89.25,0.808,Critical,72.09,Short tenure (new customer)|Month-to-month contract|High monthly bill

@@ -1,0 +1,23 @@
+{
+  "Logistic regression": {
+    "roc_auc": 0.8449,
+    "pr_auc": 0.6348,
+    "brier": 0.1371,
+    "precision_at_0.5": 0.6465,
+    "recall_at_0.5": 0.5482,
+    "top_decile_lift": 2.764
+  },
+  "Gradient boosting": {
+    "roc_auc": 0.8441,
+    "pr_auc": 0.6526,
+    "brier": 0.1357,
+    "precision_at_0.5": 0.6667,
+    "recall_at_0.5": 0.4839,
+    "top_decile_lift": 2.892
+  },
+  "baseline_churn_rate_test": 0.2652,
+  "n_train": 5282,
+  "n_test": 1761,
+  "oof_roc_auc_all_customers": 0.8431,
+  "oof_top_decile_lift": 2.837
+}

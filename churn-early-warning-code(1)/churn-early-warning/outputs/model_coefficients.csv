@@ -1,0 +1,44 @@
+,coef
+num__tenure_months,-0.8361096461840436
+cat__contract_Two year,-0.7500922176898366
+cat__internet_service_DSL,-0.38603618221391406
+cat__phone_service_Yes,-0.3171861540482681
+cat__paperless_billing_No,-0.3035053372489915
+cat__multiple_lines_No,-0.28204246941919303
+cat__online_security_Yes,-0.2719459604505338
+cat__tech_support_Yes,-0.2575598354351344
+cat__senior_citizen_No,-0.24372515583417423
+cat__dependents_Yes,-0.21658193189834918
+cat__payment_method_Credit card (automatic),-0.20925845830071899
+cat__streaming_movies_No,-0.15307970029142198
+cat__streaming_tv_No,-0.1465779637983527
+cat__online_backup_Yes,-0.14595630059073778
+cat__online_security_No internet service,-0.1407281120377086
+cat__device_protection_No internet service,-0.1407281120377086
+cat__tech_support_No internet service,-0.1407281120377086
+cat__online_backup_No internet service,-0.1407281120377086
+cat__internet_service_No,-0.1407281120377086
+cat__streaming_tv_No internet service,-0.1407281120377086
+cat__streaming_movies_No internet service,-0.1407281120377086
+cat__partner_Yes,-0.13714262702896476
+cat__partner_No,-0.13224000259304608
+cat__payment_method_Mailed check,-0.12917580656439945
+cat__payment_method_Bank transfer (automatic),-0.12345178601083441
+cat__device_protection_Yes,-0.09102863785933912
+cat__contract_One year,-0.0906587060087251
+cat__dependents_No,-0.05280069772366044
+cat__device_protection_No,-0.03762587972496311
+cat__multiple_lines_Yes,-0.03514368462907624
+cat__senior_citizen_Yes,-0.025657473787836598
+cat__online_backup_No,0.0173017830064352
+cat__streaming_tv_Yes,0.017923446214049087
+cat__streaming_movies_Yes,0.024425182707118853
+cat__paperless_billing_Yes,0.03412270762698177
+cat__phone_service_No,0.047803524426258355
+cat__multiple_lines_No phone service,0.047803524426258355
+cat__tech_support_No,0.12890531785083245
+cat__online_security_No,0.1432914428662322
+cat__payment_method_Electronic check,0.19250342125394143
+cat__internet_service_Fiber optic,0.25738166462961226
+num__monthly_charges,0.30624700719516046
+cat__contract_Month-to-month,0.5713682940765517

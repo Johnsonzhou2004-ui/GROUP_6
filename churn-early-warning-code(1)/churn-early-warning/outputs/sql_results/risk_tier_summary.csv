@@ -1,0 +1,5 @@
+risk_tier,customers,pct_of_base,avg_predicted_prob,actual_churn_rate_pct,monthly_revenue
+Critical,237,3.4,0.791,82.7,21209.0
+High,1315,18.7,0.626,62.3,105191.0
+Medium,1407,20.0,0.365,35.1,97074.0
+Low,4084,58.0,0.085,8.8,232643.0

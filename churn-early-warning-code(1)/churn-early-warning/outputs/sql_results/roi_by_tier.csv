@@ -1,0 +1,5 @@
+risk_tier,contacted,expected_churners,expected_saves,revenue_saved,cost,net_benefit,roi_pct
+Critical,41,32.1,9.6,10242.0,1352.0,8890.0,657.0
+High,496,302.9,90.9,88278.0,12796.0,75482.0,590.0
+Medium,913,328.8,98.6,82776.0,15582.0,67194.0,431.0
+Low,3724,294.6,88.4,63315.0,36123.0,27191.0,75.0

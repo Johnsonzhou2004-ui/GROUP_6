@@ -1,0 +1,5 @@
+risk_tier,active_customers,monthly_revenue,expected_monthly_loss
+Critical,41,3628.0,2845.0
+High,496,39984.0,24522.0
+Medium,913,63337.0,22993.0
+Low,3724,210038.0,17587.0

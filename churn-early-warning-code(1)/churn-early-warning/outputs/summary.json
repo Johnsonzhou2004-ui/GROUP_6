@@ -1,0 +1,164 @@
+{
+  "kpis": {
+    "customers": 7043.0,
+    "churned": 1869.0,
+    "churn_rate_pct": 26.54,
+    "avg_monthly_charge": 64.76,
+    "monthly_revenue_lost": 139131.0
+  },
+  "backtest_flagged_customers": 1552,
+  "backtest_flagged_pct_base": 22.0,
+  "backtest_flagged_precision_pct": 65.4,
+  "backtest_churners_captured_pct": 54.3,
+  "active_customers": 5174,
+  "active_flagged": 537,
+  "roi_defaults": {
+    "contact_cost": 8.0,
+    "save_rate": 0.3,
+    "months_value": 12,
+    "discount_cost_pct": 0.1
+  },
+  "roi_at_operating_point": {
+    "threshold": 0.5,
+    "contacted": 537.0,
+    "expected_churners": 335.0,
+    "expected_saves": 100.5,
+    "revenue_saved": 98520.0,
+    "cost": 14148.0,
+    "net_benefit": 84372.0,
+    "roi_pct": 596.0
+  },
+  "roi_best_total": {
+    "threshold": 0.1,
+    "contacted": 2657.0,
+    "expected_churners": 866.4,
+    "expected_saves": 259.9,
+    "revenue_saved": 224611.0,
+    "cost": 43717.0,
+    "net_benefit": 180894.0,
+    "roi_pct": 414.0
+  },
+  "roi_by_tier": [
+    {
+      "risk_tier": "Critical",
+      "contacted": 41,
+      "expected_churners": 32.1,
+      "expected_saves": 9.6,
+      "revenue_saved": 10242.0,
+      "cost": 1352.0,
+      "net_benefit": 8890.0,
+      "roi_pct": 657.0
+    },
+    {
+      "risk_tier": "High",
+      "contacted": 496,
+      "expected_churners": 302.9,
+      "expected_saves": 90.9,
+      "revenue_saved": 88278.0,
+      "cost": 12796.0,
+      "net_benefit": 75482.0,
+      "roi_pct": 590.0
+    },
+    {
+      "risk_tier": "Medium",
+      "contacted": 913,
+      "expected_churners": 328.8,
+      "expected_saves": 98.6,
+      "revenue_saved": 82776.0,
+      "cost": 15582.0,
+      "net_benefit": 67194.0,
+      "roi_pct": 431.0
+    },
+    {
+      "risk_tier": "Low",
+      "contacted": 3724,
+      "expected_churners": 294.6,
+      "expected_saves": 88.4,
+      "revenue_saved": 63315.0,
+      "cost": 36123.0,
+      "net_benefit": 27191.0,
+      "roi_pct": 75.0
+    }
+  ],
+  "active_base_by_tier": [
+    {
+      "risk_tier": "Critical",
+      "active_customers": 41,
+      "monthly_revenue": 3628.0,
+      "expected_monthly_loss": 2845.0
+    },
+    {
+      "risk_tier": "High",
+      "active_customers": 496,
+      "monthly_revenue": 39984.0,
+      "expected_monthly_loss": 24522.0
+    },
+    {
+      "risk_tier": "Medium",
+      "active_customers": 913,
+      "monthly_revenue": 63337.0,
+      "expected_monthly_loss": 22993.0
+    },
+    {
+      "risk_tier": "Low",
+      "active_customers": 3724,
+      "monthly_revenue": 210038.0,
+      "expected_monthly_loss": 17587.0
+    }
+  ],
+  "metrics": {
+    "Logistic regression": {
+      "roc_auc": 0.8449,
+      "pr_auc": 0.6348,
+      "brier": 0.1371,
+      "precision_at_0.5": 0.6465,
+      "recall_at_0.5": 0.5482,
+      "top_decile_lift": 2.764
+    },
+    "Gradient boosting": {
+      "roc_auc": 0.8441,
+      "pr_auc": 0.6526,
+      "brier": 0.1357,
+      "precision_at_0.5": 0.6667,
+      "recall_at_0.5": 0.4839,
+      "top_decile_lift": 2.892
+    },
+    "baseline_churn_rate_test": 0.2652,
+    "n_train": 5282,
+    "n_test": 1761,
+    "oof_roc_auc_all_customers": 0.8431,
+    "oof_top_decile_lift": 2.837
+  },
+  "sensitivity_save_rate": [
+    {
+      "save_rate": 0.1,
+      "contacted": 537,
+      "expected_churners": 335.0,
+      "expected_saves": 33.5,
+      "revenue_saved": 32840.0,
+      "cost": 7580.0,
+      "net_benefit": 25260.0,
+      "roi_pct": 333.0
+    },
+    {
+      "save_rate": 0.2,
+      "contacted": 537,
+      "expected_churners": 335.0,
+      "expected_saves": 67.0,
+      "revenue_saved": 65680.0,
+      "cost": 10864.0,
+      "net_benefit": 54816.0,
+      "roi_pct": 505.0
+    },
+    {
+      "save_rate": 0.3,
+      "contacted": 537,
+      "expected_churners": 335.0,
+      "expected_saves": 100.5,
+      "revenue_saved": 98520.0,
+      "cost": 14148.0,
+      "net_benefit": 84372.0,
+      "roi_pct": 596.0
+    }
+  ]
+}

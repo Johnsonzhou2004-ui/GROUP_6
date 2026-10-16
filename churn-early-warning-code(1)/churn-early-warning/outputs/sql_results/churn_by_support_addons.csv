@@ -1,0 +1,5 @@
+has_online_security,has_tech_support,customers,churn_rate_pct
+No,No,2553,48.96
+No,Yes,945,22.33
+Yes,No,920,21.3
+Yes,Yes,1099,9.01
