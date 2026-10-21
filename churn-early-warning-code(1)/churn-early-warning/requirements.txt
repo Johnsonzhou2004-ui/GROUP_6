@@ -14,3 +14,10 @@ plotly
 scikit-learn
 joblib
 anthropic
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+anthropic
